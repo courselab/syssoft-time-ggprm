@@ -1,9 +1,13 @@
 # Membros:
 
 Pedro Henrique Borges Monici - 10816732
-Matheus Luis Oliveira da Silva -
-Gabriel Victor Cardoso Fernandes -
-Rodrigo Lopes Assaf -
+
+Matheus Luis Oliveira da Silva - 11857429
+
+Gabriel Victor Cardoso Fernandes - 11878296
+
+Rodrigo Lopes Assaf - 11795530
+
 Guilherme Machado Rios - 11222839
 
 
